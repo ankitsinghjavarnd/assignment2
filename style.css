@@ -1,0 +1,49 @@
+header{
+    background-color : grey;
+    text-align : center;
+    padding : 10px;
+    color : #ffffff;
+    font-size : 20px;
+}
+footer{
+    background-color : grey;
+    text-align : center;
+    padding : 10px;
+    color : #ffffff;
+    font-size : 20px;
+}
+button {
+    color :#ffffff;
+    background-color : green;
+    float: auto; 
+}
+#links {
+    background-color:blue;
+    padding : 15px;
+    text-align: center;
+}
+a:link {
+    color : white;
+    text-decoration: none;
+}
+a:hover{
+    color :#000000;
+}
+#button1{
+    float: right;
+    background-color: navy;
+}
+#Field{
+    float:centre;
+    border:2px solid;
+    margin : auto;
+    padding-left : 0px;
+    padding-right: 0px;
+}
+#FORM{
+    text-align: center;
+    margin : auto;
+}
+#input1{
+    float:center;
+}
